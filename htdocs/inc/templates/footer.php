@@ -5,7 +5,6 @@
 			<p>
 				<a href="/">Home</a> | <a href="/space/">One Space</a> | <a href="/graffiti/">Graffiti</a> | <a href="/audio/">Audio</a><br />
 				all content &copy; 1973, david tufts<br />
-				×
 			</p>
 		</footer>
 	</div>
