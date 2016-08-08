@@ -15,39 +15,15 @@ $template->place('header');
 
 	<div class="row">
 
-		<div class="col-md-4">
-			<a href="./friends-of-ed-berklee">
-				<img src="./images/friends-of-ed-berklee-studio_b_thumbnail.jpg" alt="FOE – Berklee Studio B, 1994" />
-			</a>
-			<h3>
-				<a href="./friends-of-ed-berklee">Friends of Ed – Berklee Studio B, 1994</a>
-			</h3>
-			<p>
-				Trimmed down FOE session from the Boston years
-			</p>
-		</div>
-
 		<div class="col-md-2">
-			<a href="./friends-of-ed-live-wag-1992">
-				<img src="./images/friends-of-ed-wag_thumbnail.jpg" alt="FOE – Live at W.A.G., 1992" />
+			<a href="./friends-of-ed-eye-of-the-tiger">
+				<img src="./images/friends-of-ed-eye_of_the_tiger_thumbnail.jpg" alt="FOE - Eye of the Tiger Cassette" />
 			</a>
 			<h3>
-				<a href="./friends-of-ed-live-wag-1992">Friends of Ed – Live at W.A.G., Summer, 1992</a>
+				<a href="./friends-of-ed-eye-of-the-tiger"><acronym title="Friends of Ed">FOE</acronym> – Eye Of The Tiger</a>
 			</h3>
 			<p>
-				FOE's last show at W.A.G., Summer of 1992
-			</p>
-		</div>
-
-		<div class="col-md-2">
-			<a href="./friends-of-ed-live-cape-cod-1992">
-				<img src="./images/friends-of-ed-west_dennis_thumb.jpg" alt="FOE – Live on Cape Cod, 1992" />
-			</a>
-			<h3>
-				<a href="./friends-of-ed-live-cape-cod-1992">Friends of Ed – Live: West Dennis, Cape Cod, 1992</a>
-			</h3>
-			<p>
-				Opening for Seven League Boots in West Dennis, Cape Code. May 30, 1992
+				FOE’s first recordings. 1990. Mostly joke cover songs.
 			</p>
 		</div>
 
@@ -64,14 +40,38 @@ $template->place('header');
 		</div>
 
 		<div class="col-md-2">
-			<a href="./friends-of-ed-eye-of-the-tiger">
-				<img src="./images/friends-of-ed-eye_of_the_tiger_thumbnail.jpg" alt="FOE - Eye of the Tiger Cassette" />
+			<a href="./friends-of-ed-live-cape-cod-1992">
+				<img src="./images/friends-of-ed-west_dennis_thumb.jpg" alt="FOE – Live on Cape Cod, 1992" />
 			</a>
 			<h3>
-				<a href="./friends-of-ed-eye-of-the-tiger"><acronym title="Friends of Ed">FOE</acronym> – Eye Of The Tiger</a>
+				<a href="./friends-of-ed-live-cape-cod-1992">Friends of Ed – Live: West Dennis, Cape Cod, 1992</a>
 			</h3>
 			<p>
-				FOE’s first recordings. 1990. Mostly joke cover songs.
+				Opening for Seven League Boots and Green Day in West Dennis, Cape Code. May 30, 1992
+			</p>
+		</div>
+
+		<div class="col-md-2">
+			<a href="./friends-of-ed-live-wag-1992">
+				<img src="./images/friends-of-ed-wag_thumbnail.jpg" alt="FOE – Live at W.A.G., 1992" />
+			</a>
+			<h3>
+				<a href="./friends-of-ed-live-wag-1992">Friends of Ed – Live at W.A.G., Summer, 1992</a>
+			</h3>
+			<p>
+				FOE's last show at W.A.G., Summer of 1992
+			</p>
+		</div>
+
+		<div class="col-md-4">
+			<a href="./friends-of-ed-berklee">
+				<img src="./images/friends-of-ed-berklee-studio_b_thumbnail.jpg" alt="FOE – Berklee Studio B, 1994" />
+			</a>
+			<h3>
+				<a href="./friends-of-ed-berklee">Friends of Ed – Berklee Studio B, 1994</a>
+			</h3>
+			<p>
+				Trimmed down FOE session from the Boston years
 			</p>
 		</div>
 
@@ -80,18 +80,6 @@ $template->place('header');
 	<h2>Other Punk Stuff from Worcester in the '90s</h2>
 
 	<div class="row">
-
-		<div class="col-md-3">
-			<a href="./seven-league-boots-live-cape-cod-1992">
-				<img src="./images/seven-league-boots-cape_cod.jpg" alt="Seven League Boots – Live on Cape Cod, 1992" />
-			</a>
-			<h3>
-				<a href="./seven-league-boots-live-cape-cod-1992">Seven League Boots – Live: West Dennis, Cape Cod, 1992</a>
-			</h3>
-			<p>
-				Opening for Green Day in West Dennis, Cape Code. May 30, 1992
-			</p>
-		</div>
 
 		<div class="col-md-3">
 			<a href="./neo-cerebral-subculture">
@@ -116,6 +104,18 @@ $template->place('header');
 				Recorded at Worcester Artist Group, summer of 1991 right before <em>More Noise…</em>
 				was released. This was the Bosstones’ first W.A.G. show and they tried to play
 				every song they knew.
+			</p>
+		</div>
+
+		<div class="col-md-3">
+			<a href="./seven-league-boots-live-cape-cod-1992">
+				<img src="./images/seven-league-boots-cape_cod.jpg" alt="Seven League Boots – Live on Cape Cod, 1992" />
+			</a>
+			<h3>
+				<a href="./seven-league-boots-live-cape-cod-1992">Seven League Boots – Live: West Dennis, Cape Cod, 1992</a>
+			</h3>
+			<p>
+				Opening for Green Day in West Dennis, Cape Code. May 30, 1992
 			</p>
 		</div>
 
