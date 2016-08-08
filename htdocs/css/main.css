@@ -1,0 +1,72 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+.gallery p {
+    margin:2em 0;
+    padding: 2em 2em 4em 2em;
+    border: 2px solid #eee;
+    position: relative;
+    -moz-box-shadow: 1px 2px 4px rgba(0, 0, 0, .3);
+    -webkit-box-shadow: 1px 2px 4px rgba(0, 0, 0, .3);
+    box-shadow: 1px 2px 4px rgba(0, 0, 0, .3);
+    background: #F2F0E2;
+}
+.gallery p::after {
+    content: '';
+    position: absolute;
+    z-index: -1; /* hide shadow behind image */
+    -webkit-box-shadow: 0 15px 20px rgba(0, 0, 0, 0.3);
+    -moz-box-shadow: 0 15px 20px rgba(0, 0, 0, 0.3);
+    box-shadow: 0 15px 20px rgba(0, 0, 0, 0.3);
+    width: 70%;
+    left: 15%; /* one half of the remaining 30% */
+    height: 100px;
+    bottom: 0;
+}
+.gallery img {
+    width: 100%;
+    border: 1px solid #eee;
+}
+
+
+.audio-gallery {
+    margin-top: 2em;
+}
+.audio-gallery h2 {
+    text-transform: uppercase;
+    font-weight: 100;
+    border-bottom: 1px solid #000;
+    margin: 1em 0 20px;
+}
+.audio-gallery h3 {
+    font-size: 1em;
+    font-weight: 600;
+}
+.audio-gallery img {
+    width: 100%;
+}
+.audio-gallery .row > div {
+}
+
+
+.audio article h1 a {
+    font-size: 12px;
+    font-weight: normal;
+}
+.audio article iframe {
+    margin: 2em 0;
+}
+.audio aside {
+    padding-top: 2em;
+}
+@media (min-width: 992px) {
+    .audio aside {
+        padding-top: 8em;
+    }
+}
+.audio aside img {
+    width: 100%;
+}
