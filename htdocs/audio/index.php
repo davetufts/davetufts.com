@@ -123,13 +123,37 @@ $template->place('header');
 		</div>
 
 	</div>
-</div>
 
-	<ul class="audio_list">
+	<h2>Hip Hop</h2>
 
+	<div class="row">
+
+		<div class="col-md-3">
+			<a href="./dj-clark-kent">
+				<img src="./images/clark-kent-thumbnail.jpg" alt="DJ Clark Kent" />
+			</a>
+			<h3>
+				<a href="./dj-clark-kent">DJ Clark Kent – WBLS Radio Show, 1993</a>
+			</h3>
+			<p>
+				Recorded from WBLS, 107.5 FM in NYC. This 1993 radio show features DJ Clark Kent
+				playing some sweet classics.
+			</p>
+		</div>
+
+		<div class="col-md-3">
+		</div>
+
+		<div class="col-md-3">
+		</div>
+
+		<div class="col-md-3">
+		</div>
+
+	</div>
 <?
 /*
-		<li>
+		<div class="col-md-3">
 			<a href="/audio/dbs">
 				<img src="/audio/dbs/images/1200_thumbnail.jpg" alt="DJ Clark Kent" />
 			</a>
@@ -139,43 +163,12 @@ $template->place('header');
 			<p>
 				Low-fi freestyles and DJ mixes from 486 Mass Ave, Boston.
 			</p>
-		</li>
-
-
-		<li>
-			<a href="/audio/dj_clark_kent">
-				<img src="/audio/dj_clark_kent/images/clark_kent_thumbnail.jpg" alt="DJ Clark Kent" />
-			</a>
-			<h3>
-				<a href="/audio/dj_clark_kent">DJ Clark Kent – WBLS Radio Show, 1993</a>
-			</h3>
-			<p>
-				Recorded from WBLS, 107.5 FM in NYC. This 1993 radio show features DJ Clark Kent
-				playing some sweet classics.
-			</p>
-		</li>
-
-
-		<li>
-			<a href="/audio/bosstones">
-				<img src="/audio/bosstones/images/bosstones_wag_thumbnail.jpg" alt="Bosstones – Live at W.A.G." />
-			</a>
-			<h3>
-				<a href="/audio/bosstones">The Mighty Mighty Bosstones – Live at W.A.G., 1991</a>
-			</h3>
-			<p>
-				Recorded at Worcester Artist Group, summer of 1991 right before <em>More Noise…</em>
-				was released. This was the Bosstones’ first W.A.G. show and they tried to play
-				every song they knew.
-			</p>
-		</li>
+		</div>
 */
 ?>
+</div>
 
 
-
-
-</ul>
 
 
 <?php

@@ -70,3 +70,24 @@
 .audio aside img {
     width: 100%;
 }
+
+.tracks {
+    font-size: .8em;
+}
+.tracks ul {
+    list-style: none;
+    padding-left: 0;
+    margin-left: 0;
+}
+.tracks li {
+    padding-bottom: .25em;
+    border-bottom: 1px dotted #ccc;
+    margin-bottom: .25em;
+}
+.tracks li:first-child {
+    border-top: 1px dotted #ccc;
+    padding-top: .25em;
+}
+.tracks li span {
+    opacity: 0.5;
+}
