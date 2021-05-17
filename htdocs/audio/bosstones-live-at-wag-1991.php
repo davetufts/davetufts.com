@@ -33,7 +33,7 @@ $template->place('header');
 			<img src="./images/bosstones-layout.jpg" alt="Mighty Mighty Bosstons at W.A.G." />
 		</p>
 		<p>
-			<a href="http://dl.dropbox.com/u/6809778/music/1991-Bosstones-Worcester_Artist_Group.zip">Download Show (85MB)</a>
+			<a href="https://www.dropbox.com/s/p9kz14qbl9fo010/1991-Bosstones-Worcester_Artist_Group.zip?dl=0">Download Show (85MB)</a>
 		</p>
 		<p>
 			<a href="/audio/">More Audio</a>

@@ -31,7 +31,7 @@ $template->place('header');
 			<img src="./images/friends-of-ed-ct_produce.jpg" alt="FOE and W.A.G." />
 		</p>
 		<p>
-			<a href="http://dl.dropbox.com/u/6809778/music/1992-FOE-Worcester_Artist_Group.zip">Download Show (43MB)</a>
+			<a href="https://www.dropbox.com/s/fx0ygc97ccchcbx/1992-FOE-Worcester_Artist_Group.zip?dl=0">Download Show (43MB)</a>
 		</p>
 		<p>
 			<a href="/audio/">More Audio</a>

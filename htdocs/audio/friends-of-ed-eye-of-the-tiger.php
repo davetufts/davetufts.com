@@ -37,7 +37,7 @@ $template->place('header');
 			<img src="./images/friends-of-ed-eye_of_the_tiger.jpg" alt="Eye of the Tiger" />
 		</p>
 		<p>
-			<a href="http://dl.dropbox.com/u/6809778/music/1990-FOE-Eye_Of_The_Tiger.zip">Download Cassette (34MB)</a>
+			<a href="https://www.dropbox.com/s/jz28k1ht3ah2z5d/1990-FOE-Eye_Of_The_Tiger.zip?dl=0">Download Cassette (34MB)</a>
 		</p>
 		<p>
 			<a href="/audio/">More Audio</a>

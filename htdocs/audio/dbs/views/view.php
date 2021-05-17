@@ -31,7 +31,7 @@ $template->place('header');
 		<img src="./images/1200.gif" alt="1200s" />
 	</p>
 	<p>
-		<a href="http://dl.dropbox.com/u/6809778/music/1995-DBS-Freestyles.zip">Download Show (86MB)</a>
+		<a href="https://www.dropbox.com/s/m31jtocn9ku3ig2/1995-DBS-Freestyles.zip?dl=0">Download Show (86MB)</a>
 	</p>
 	<p>
 		<a href="/audio/">More Audio</a>

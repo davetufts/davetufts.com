@@ -33,7 +33,7 @@ $template->place('header');
 			<img src="./images/friends-of-ed-its_ugly_cassette.jpg" alt="It's Ugly Cassette" />
 		</p>
 		<p>
-			<a href="http://dl.dropbox.com/u/6809778/music/1991-FOE-its_ugly.zip">Download Show (19MB)</a>
+			<a href="https://www.dropbox.com/s/fffogiyqmwdevzs/1991-FOE-its_ugly.zip?dl=0">Download Show (19MB)</a>
 		</p>
 		<p>
 			<a href="/audio/">More Audio</a>

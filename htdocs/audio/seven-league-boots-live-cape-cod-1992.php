@@ -27,7 +27,7 @@ $template->place('header');
 			<img src="./images/seven-league-boots-west_dennis" alt="Flyer for the Show" />
 		</p>
 		<p>
-			<a href="http://dl.dropbox.com/u/6809778/music/1992-Seven_League_Boots-Cape_Cod.zip/">Download Show (38MB)</a>
+			<a href="https://www.dropbox.com/s/3xrc8mkip45a9we/1992-Seven_League_Boots-Cape_Cod.zip?dl=0">Download Show (38MB)</a>
 		</p>
 		<p>
 			<a href="/audio/">More Audio</a>

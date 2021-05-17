@@ -61,7 +61,7 @@ $template->place('header');
 			<img src="./images/clark-kent.jpg" alt="DJ Clark Kent" />
 		</p>
 		<p>
-			<a href="http://dl.dropbox.com/u/6809778/music/1993-DJ_Clark_Kent.zip">Download Show (56MB)</a>
+			<a href="https://www.dropbox.com/s/850u6t9lfr559pq/1993-DJ_Clark_Kent.zip?dl=0">Download Show (56MB)</a>
 		</p>
 		<p>
 			<a href="/audio/">More Audio</a>

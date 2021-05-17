@@ -31,7 +31,7 @@ $template->place('header');
 			<img src="./images/friends-of-ed-berklee-studio_b.jpg" alt="Berklee Studio B" />
 		</p>
 		<p>
-			<a href="http://dl.dropbox.com/u/6809778/music/1994-Friend_Of_Ed-Berklee.zip">Download Show (21MB)</a>
+			<a href="https://www.dropbox.com/s/7ucs0xdsxc6b2sg/1994-Friend_Of_Ed-Berklee.zip?dl=0">Download Show (21MB)</a>
 		</p>
 		<p>
 			<a href="/audio/">More Audio</a>

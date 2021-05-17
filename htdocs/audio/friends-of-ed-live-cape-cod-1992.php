@@ -31,7 +31,7 @@ $template->place('header');
 			<img src="./images/friends-of-ed-west_dennis.jpg" alt="West Dennis Community Hall" />
 		</p>
 		<p>
-			<a href="http://dl.dropbox.com/u/6809778/music/1992-Friends_Of_Ed-Cape_Cod.zip">Download Show (40MB)</a>
+			<a href="https://www.dropbox.com/s/zoeg4px87l9tgc3/1992-Friends_Of_Ed-Cape_Cod.zip?dl=0">Download Show (40MB)</a>
 		</p>
 		<p>
 			<a href="/audio/">More Audio</a>
